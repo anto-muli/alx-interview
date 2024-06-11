@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #!/usr/bin/python3
+=======
+#!/usr/bin/python0
+>>>>>>> b6d959c61b1d311cfb42ef23055bb9fd64b254e5
 
 canUnlockAll = __import__('0-lockboxes').canUnlockAll
 

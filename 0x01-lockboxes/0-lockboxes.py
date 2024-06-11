@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+"""A python module that determines if all boxes can be opened
    from a list of lists
 """
 
